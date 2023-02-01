@@ -1,0 +1,2 @@
+# TypicalRepository
+Just text
